@@ -2,6 +2,8 @@
 
 A simple command-line application for managing customer orders in a restaurant setting.
 
+You can watch a demonstration video **<a href="https://youtu.be/p7pmKfJEnuQ">here</a>**.
+
 ## Features
 - **Returning Customer**: Existing customers can place orders by entering their phone number.
 - **New Customer**: New customers can register by providing their name and phone number before placing an order.
