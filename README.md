@@ -15,7 +15,7 @@ Anyone is welcome to install this program. The following are the steps to run it
 ### Step 1: Cloning the repository
 Here are the instructions to properly **<a href="https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository">clone</a>** this repo.
 
-## Step 2: Create a virtual environment
+### Step 2: Create a virtual environment
 Within the terminal of this program, type in 'pip install virtualenv' to install the virtual environment, then 'virtualenv venv' to create the environment.
 
 ### Step 3: Installing the dependencies
